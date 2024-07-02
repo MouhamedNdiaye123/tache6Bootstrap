@@ -1,5 +1,5 @@
 
-.home-left, .footer{
+.home-left .card, .footer{
     background-color: #009688;
     
 }
@@ -8,11 +8,12 @@
     
 }
 
-.left{
+.left .card{
     display: flex;
     flex-direction: column;
     background-color: #009688;
-    padding: 35px;
+    padding: 37px;
+    color: white;
 }
 .boxs{
     padding: 35px;
